@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi! I'm Gabriel Nascimento, I'm 18 years old and I'm from São Paulo.<br><br>I'm a student of Data Science and Artificial Intelligence at PUC Campinas and a Systems Development Technician from ETEC Vasco Antônio Venchiarutti.<br><br>My primary interest lies in the area of ​​Data, especially in the analysis, organization, and interpretation of information to generate insights and support decision-making. I have knowledge of Python, HTML, and CSS, as well as a solid foundation in programming logic and systems development.<br><br>I constantly seek to improve my technical and analytical skills, focusing on building efficient, data-driven solutions aligned with the demands of the technology market.</p>
+<p align="left">Hi! I'm Gabriel Nascimento, I'm 18 years old and I'm from São Paulo.<br><br>I'm a student of Data Science and Artificial Intelligence at PUC Campinas and a Systems Development Technician from ETEC Vasco Antônio Venchiarutti.<br><br>My primary interest lies in the area of ​​Data, especially in the analysis, organization, and interpretation of information to generate insights and support decision-making. I have knowledge of Python, Power BI and Excel, as well as a solid foundation in programming logic and systems development.<br><br>I constantly seek to improve my technical and analytical skills, focusing on building efficient, data-driven solutions aligned with the demands of the technology market.</p>
 
 ###
 
